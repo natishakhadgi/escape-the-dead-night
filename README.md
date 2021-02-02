@@ -1,2 +1,2 @@
-# escape-the-dead-night
+# Escape the Dead Night
 Halloween Unity Game
